@@ -1,6 +1,5 @@
 # OOADP
 FOR Exams refer the Programs and UMLs in [Manuals](https://github.com/vivekhathwar/OOADP/tree/master/Manual) folder.
-/n
 This repository contains the .mdj files (class diagrams) and .java (functions) of implemented examples for few basic Design Patterns dicovered by GoF.
 
 ***BELOW PROGRAMS ARE ONLY FOR REFERENCE, WRITING IN EXAMS IS NOT SUGGESTED***
