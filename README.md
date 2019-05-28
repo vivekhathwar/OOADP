@@ -1,6 +1,9 @@
 # OOADP
+FOR Exams refer the Programs and UMLs in [Manuals](https://github.com/vivekhathwar/OOADP/tree/master/Manual) folder.
+/n
 This repository contains the .mdj files (class diagrams) and .java (functions) of implemented examples for few basic Design Patterns dicovered by GoF.
-***ONLY FOR REFERENCE, WRITING IN EXAMS IS NOT SUGGESTED***
+
+***BELOW PROGRAMS ARE ONLY FOR REFERENCE, WRITING IN EXAMS IS NOT SUGGESTED***
 1) ```Fighters``` and ```Payment``` are exempler implementation for ***Strategy design pattern***.
 2) ```Bridge is``` ***Bridge design pattern*** implementation of Workshop-Vehicle.
 3) ```Home Theatre``` is a ***Facade design pattern*** implementation.
